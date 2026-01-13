@@ -1,2 +1,26 @@
-Organização e Estratégias de Gastos
-Este projeto tem como objetivo estudar os fundamentos do orçamento pessoal e das estratégias de organização de gastos, utilizando o NotebookLM como ferramenta de aprendizagem ativa. 
+# Organização e Estratégias de Gastos
+
+Projeto de estudo desenvolvido no NotebookLM com foco em educação financeira básica, abordando orçamento pessoal e estratégias de organização de gastos, utilizando inteligência artificial como ferramenta de apoio à aprendizagem.
+
+## 🎯 Objetivo
+Compreender os fundamentos do orçamento pessoal e aplicar estratégias simples para organização e controle de gastos, utilizando curadoria de fontes e prompts estruturados.
+
+## 🧠 Metodologia
+- Curadoria de fontes abertas (textos e PDFs)
+- Uso do NotebookLM para análise e síntese do conteúdo
+- Elaboração de perguntas estratégicas
+
+## 📚 Conteúdo do Projeto
+- Miniguia de estudo
+- Glossário de conceitos financeiros
+- Conjunto de prompts reutilizáveis
+- Lista de fontes utilizadas
+
+## 🛠️ Ferramentas Utilizadas
+- NotebookLM
+- GitHub
+
+  🔗 **NotebookLM (caderno do projeto):**  
+[Acesse o caderno no NotebookLM](https://notebooklm.google.com/notebook/349b838a-98d6-4abf-8434-ebdf94a5acaa)
+
+Gabriela Vasconcelos
